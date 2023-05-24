@@ -20,8 +20,8 @@ This script uses the following libraries:
 
 | ID | Name | Descryption | Priority | Category |
 | --- | --- | --- | --- | --- |
-| `FR-001` | Get job offers data | Scrap with usage of Python and Selenium data from it.pracuj.pl  | `1` | Funtional |
-| `FR-002` | Analize Data | Analize data with usage of BeautifulSoup library | `1` | Funtional |
+| `FR-001` | Get job offers data | Scrap with usage of Python and Selenium data from it.pracuj.pl  | `1` | Functional |
+| `FR-002` | Analize Data | Analize data with usage of BeautifulSoup library | `1` | Functional |
 | `FR-003` | Show results | Publish public website that show analized and described results of data analizys | `1` | Functional |
 
 
