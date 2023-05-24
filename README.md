@@ -13,18 +13,17 @@ The main features of this script are:
 ## Libraries Used
 This script uses the following libraries:
 
-- time
-- requests
 - BeautifulSoup from bs4
 - webdriver and chrome.service from selenium
 - collections
 - json
 
-## Functions
-This script contains the following functions:
+| ID | Name | Descryption | Priority | Category |
+| --- | --- | --- | --- | --- |
+| `FR-001` | Get job offers data | Scrap with usage of Python and Selenium data from it.pracuj.pl  | `1` | Funtional |
+| `FR-002` | Analize Data | Analize data with usage of BeautifulSoup library | `1` | Funtional |
+| `FR-003` | Show results | Publish public website that show analized and described results of data analizys | `1` | Functional |
 
-- returnDataArray(): This function is used to extract text from a list of BeautifulSoup elements and returns a list of strings.
-- print_hi(): This is the main function that executes the web scraping process. It extracts job data from all pages on the website and stores the data in a JSON file.
 
 ## Usage
 To use this script, follow these steps:
